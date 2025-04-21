@@ -1,0 +1,506 @@
+Error fetching bonus: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/bonusController.js:106:10
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:346:12) {
+  fatal: true
+}
+Error fetching bonus: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/bonusController.js:106:10
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:346:12) {
+  fatal: true
+}
+Error during retrieval: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/usersController.js:29:6
+    at asyncUtilWrap (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express-async-handler/index.js:3:20)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:365:14) {
+  fatal: true
+}
+Error during retrieval: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/usersController.js:29:6
+    at asyncUtilWrap (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express-async-handler/index.js:3:20)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:365:14) {
+  fatal: true
+}
+Error fetching withdrawal_request: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/withdrawalController.js:37:8
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:365:14) {
+  fatal: true
+}
+Error fetching Deposite: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/depositeController.js:33:6
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:365:14) {
+  fatal: true
+}
+Error fetching full tree for referral code ATF304424: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:53:12
+    at new Promise (<anonymous>)
+    at fetchReferralTree (/home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:51:14)
+    at /home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:72:34
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3) {
+  fatal: true
+}
+Error fetching full referral tree: ErrorHandler: Error fetching tree!
+    at Query.onResult (/home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:59:27)
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:164:11)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:53:12
+    at new Promise (<anonymous>)
+    at fetchReferralTree (/home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:51:14)
+    at /home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:72:34
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13) {
+  statuscode: 500
+}
+Error during retrieval: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/usersController.js:29:6
+    at asyncUtilWrap (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express-async-handler/index.js:3:20)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:365:14) {
+  fatal: true
+}
+Error fetching Deposite: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/depositeController.js:33:6
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:365:14) {
+  fatal: true
+}
+Error fetching withdrawal_request: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/withdrawalController.js:37:8
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:365:14) {
+  fatal: true
+}
+Error fetching full tree for referral code ATF304424: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:53:12
+    at new Promise (<anonymous>)
+    at fetchReferralTree (/home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:51:14)
+    at /home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:72:34
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3) {
+  fatal: true
+}
+Error fetching full referral tree: ErrorHandler: Error fetching tree!
+    at Query.onResult (/home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:59:27)
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:164:11)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:53:12
+    at new Promise (<anonymous>)
+    at fetchReferralTree (/home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:51:14)
+    at /home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:72:34
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13) {
+  statuscode: 500
+}
+Error fetching Deposite: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/depositeController.js:33:6
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:365:14) {
+  fatal: true
+}
+Error fetching withdrawal_request: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/withdrawalController.js:37:8
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:365:14) {
+  fatal: true
+}
+Error fetching full tree for referral code ATF304424: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:53:12
+    at new Promise (<anonymous>)
+    at fetchReferralTree (/home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:51:14)
+    at /home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:72:34
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3) {
+  fatal: true
+}
+Error fetching full referral tree: ErrorHandler: Error fetching tree!
+    at Query.onResult (/home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:59:27)
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:164:11)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:53:12
+    at new Promise (<anonymous>)
+    at fetchReferralTree (/home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:51:14)
+    at /home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:72:34
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13) {
+  statuscode: 500
+}
+Error during retrieval: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/usersController.js:29:6
+    at asyncUtilWrap (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express-async-handler/index.js:3:20)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:365:14) {
+  fatal: true
+}
+Error during retrieval: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/usersController.js:29:6
+    at asyncUtilWrap (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express-async-handler/index.js:3:20)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:365:14) {
+  fatal: true
+}
+Error fetching Deposite: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/depositeController.js:33:6
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:365:14) {
+  fatal: true
+}
+Error fetching withdrawal_request: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/withdrawalController.js:37:8
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:365:14) {
+  fatal: true
+}
+Error fetching full tree for referral code ATF304424: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:53:12
+    at new Promise (<anonymous>)
+    at fetchReferralTree (/home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:51:14)
+    at /home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:72:34
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3) {
+  fatal: true
+}
+Error fetching full referral tree: ErrorHandler: Error fetching tree!
+    at Query.onResult (/home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:59:27)
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:164:11)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:53:12
+    at new Promise (<anonymous>)
+    at fetchReferralTree (/home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:51:14)
+    at /home/huvwzopi/api.adtofuture.com/controllers/refferalController.js:72:34
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13) {
+  statuscode: 500
+}
+Error during retrieval: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/usersController.js:29:6
+    at asyncUtilWrap (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express-async-handler/index.js:3:20)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:365:14) {
+  fatal: true
+}
+Error during retrieval: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/usersController.js:29:6
+    at asyncUtilWrap (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express-async-handler/index.js:3:20)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:365:14) {
+  fatal: true
+}
+Error fetching Deposite: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:159:17)
+    at Connection.query (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:571:17)
+    at /home/huvwzopi/api.adtofuture.com/controllers/depositeController.js:33:6
+    at /home/huvwzopi/api.adtofuture.com/middlewares/cathAsyncErrorsMiddleware.js:2:21
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/express/lib/router/index.js:365:14) {
+  fatal: true
+}
+Error fetching users: Error: Unknown column 'cto' in 'SELECT'
+    at Packet.asError (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packets/packet.js:740:17)
+    at Query.execute (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/commands/command.js:29:26)
+    at Connection.handlePacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:475:34)
+    at PacketParser.onPacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:93:12)
+    at PacketParser.executeStart (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:100:25)
+    at Socket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:293:12)
+    at readableAddChunk (internal/streams/readable.js:267:9)
+    at Socket.Readable.push (internal/streams/readable.js:206:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlState: '42S22',
+  sqlMessage: "Unknown column 'cto' in 'SELECT'",
+  sql: "SELECT id, reffer_by, refferal_code, active_plan, created_at, cto FROM users WHERE cto = 'false'"
+}
+Error in CTO calculation: Error: Error fetching users!
+    at Query.onResult (/home/huvwzopi/api.adtofuture.com/controllers/ctoController.js:13:23)
+    at Query.execute (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/commands/command.js:36:14)
+    at Connection.handlePacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:475:34)
+    at PacketParser.onPacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:93:12)
+    at PacketParser.executeStart (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:100:25)
+    at Socket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:293:12)
+    at readableAddChunk (internal/streams/readable.js:267:9)
+    at Socket.Readable.push (internal/streams/readable.js:206:10)
+Error during retrieval: Error: Unknown column 'addactivelevel' in 'WHERE'
+    at Packet.asError (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packets/packet.js:740:17)
+    at Query.execute (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/commands/command.js:29:26)
+    at Connection.handlePacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:475:34)
+    at PacketParser.onPacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:93:12)
+    at PacketParser.executeStart (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:100:25)
+    at Socket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:293:12)
+    at readableAddChunk (internal/streams/readable.js:267:9)
+    at Socket.Readable.push (internal/streams/readable.js:206:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlState: '42S22',
+  sqlMessage: "Unknown column 'addactivelevel' in 'WHERE'",
+  sql: 'SELECT * FROM plans where id=addactivelevel'
+}
+Error during retrieval: Error: Unknown column 'addinvestlevel' in 'WHERE'
+    at Packet.asError (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packets/packet.js:740:17)
+    at Query.execute (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/commands/command.js:29:26)
+    at Connection.handlePacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:475:34)
+    at PacketParser.onPacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:93:12)
+    at PacketParser.executeStart (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:100:25)
+    at Socket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:293:12)
+    at readableAddChunk (internal/streams/readable.js:267:9)
+    at Socket.Readable.push (internal/streams/readable.js:206:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlState: '42S22',
+  sqlMessage: "Unknown column 'addinvestlevel' in 'WHERE'",
+  sql: 'SELECT * FROM plans where id=addinvestlevel'
+}
+Error during retrieval: Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'add' at line 1
+    at Packet.asError (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packets/packet.js:740:17)
+    at Query.execute (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/commands/command.js:29:26)
+    at Connection.handlePacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:475:34)
+    at PacketParser.onPacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:93:12)
+    at PacketParser.executeStart (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:100:25)
+    at Socket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:293:12)
+    at readableAddChunk (internal/streams/readable.js:267:9)
+    at Socket.Readable.push (internal/streams/readable.js:206:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlState: '42000',
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'add' at line 1",
+  sql: 'SELECT * FROM activation_plan where id=add'
+}
+Error fetching users: Error: Unknown column 'cto' in 'SELECT'
+    at Packet.asError (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packets/packet.js:740:17)
+    at Query.execute (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/commands/command.js:29:26)
+    at Connection.handlePacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:475:34)
+    at PacketParser.onPacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:93:12)
+    at PacketParser.executeStart (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:100:25)
+    at Socket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:293:12)
+    at readableAddChunk (internal/streams/readable.js:267:9)
+    at Socket.Readable.push (internal/streams/readable.js:206:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlState: '42S22',
+  sqlMessage: "Unknown column 'cto' in 'SELECT'",
+  sql: "SELECT id, reffer_by, refferal_code, active_plan, created_at, cto FROM users WHERE cto = 'false'"
+}
+Error in CTO calculation: Error: Error fetching users!
+    at Query.onResult (/home/huvwzopi/api.adtofuture.com/controllers/ctoController.js:13:23)
+    at Query.execute (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/commands/command.js:36:14)
+    at Connection.handlePacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:475:34)
+    at PacketParser.onPacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:93:12)
+    at PacketParser.executeStart (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:100:25)
+    at Socket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:293:12)
+    at readableAddChunk (internal/streams/readable.js:267:9)
+    at Socket.Readable.push (internal/streams/readable.js:206:10)
+Error during retrieval: Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'add' at line 1
+    at Packet.asError (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packets/packet.js:740:17)
+    at Query.execute (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/commands/command.js:29:26)
+    at Connection.handlePacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:475:34)
+    at PacketParser.onPacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:93:12)
+    at PacketParser.executeStart (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:100:25)
+    at Socket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:293:12)
+    at readableAddChunk (internal/streams/readable.js:267:9)
+    at Socket.Readable.push (internal/streams/readable.js:206:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlState: '42000',
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'add' at line 1",
+  sql: 'SELECT * FROM plans where id=add'
+}
+Error fetching activation_plan: Error: Table 'huvwzopi_adtofuture.activation_plan' doesn't exist
+    at Packet.asError (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packets/packet.js:740:17)
+    at Query.execute (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/commands/command.js:29:26)
+    at Connection.handlePacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:475:34)
+    at PacketParser.onPacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:93:12)
+    at PacketParser.executeStart (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:100:25)
+    at Socket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:293:12)
+    at readableAddChunk (internal/streams/readable.js:267:9)
+    at Socket.Readable.push (internal/streams/readable.js:206:10) {
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlState: '42S02',
+  sqlMessage: "Table 'huvwzopi_adtofuture.activation_plan' doesn't exist",
+  sql: 'SELECT * FROM activation_plan'
+}
+Error fetching activation_plan: Error: Table 'huvwzopi_adtofuture.cto' doesn't exist
+    at Packet.asError (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packets/packet.js:740:17)
+    at Query.execute (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/commands/command.js:29:26)
+    at Connection.handlePacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:475:34)
+    at PacketParser.onPacket (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:93:12)
+    at PacketParser.executeStart (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/home/huvwzopi/nodevenv/api.adtofuture.com/14/lib/node_modules/mysql2/lib/base/connection.js:100:25)
+    at Socket.emit (events.js:400:28)
+    at addChunk (internal/streams/readable.js:293:12)
+    at readableAddChunk (internal/streams/readable.js:267:9)
+    at Socket.Readable.push (internal/streams/readable.js:206:10) {
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlState: '42S02',
+  sqlMessage: "Table 'huvwzopi_adtofuture.cto' doesn't exist",
+  sql: 'SELECT \n' +
+    '    c.*,\n' +
+    '    u.email AS useremail,\n' +
+    '    u.username AS username\n' +
+    'FROM \n' +
+    '    cto c\n' +
+    'LEFT JOIN \n' +
+    '    users u ON c.user_id = u.id\n' +
+    'WHERE \n' +
+    "    c.status = 'qualified';\n" +
+    '\n'
+}
