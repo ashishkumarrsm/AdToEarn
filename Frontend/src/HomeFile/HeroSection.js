@@ -47,7 +47,7 @@ const HeroSection = () => {
       <motion.div
         className="absolute inset-0"
         style={{
-          background: "linear-gradient(45deg, #3b82f6, #06b6d4, #ec4899, #f97316)",
+          background: "linear-gradient(45deg, #ec4899, #06b6d4, #3b82f6, #ec4899, #f97316)",
           backgroundSize: "400% 400%",
         }}
         animate={gradientAnimation}

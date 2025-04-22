@@ -41,7 +41,7 @@ export const Featuredsection = () => {
       {/* Background effect container */}
       <div className="absolute inset-0 z-0">
         <Aurora
-          colorStops={["orange-500", "orange-700", "orange-600"]}
+          colorStops={["white", "white", "white"]}
           blend={0.5}
           amplitude={1.0}
           speed={0.5}
