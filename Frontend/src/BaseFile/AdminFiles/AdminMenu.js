@@ -588,7 +588,7 @@ export default function UserMenu({ Children, PageName }) {
 
   const Requests = [
     {
-      name: "Income",
+      name: "WorkingWithdrawal",
       to: "/admin/income",
       icon: FaHandHoldingDollar,
       current: false,
