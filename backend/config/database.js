@@ -5,7 +5,7 @@ const connection = mysql.createConnection({
   host: 'localhost',
   user:  'root',
   password: 'Vikas141199@',
-  database:  'huvwzopi_adtofuture',
+  database:  'AddTo',
   waitForConnections: true,
   connectionLimit: 10,
   queueLimit: 0
