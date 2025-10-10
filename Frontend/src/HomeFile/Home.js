@@ -15,7 +15,6 @@ export const Home = () => {
     <>
       <Header />
       <HeroSection />
-     
       <Featuredsection/>
       <Feature />
       <Savemoney />

@@ -96,7 +96,7 @@ function App() {
       <Routes>
         <Route path="/registration" element={ <Registration/>}/>
         <Route path="/user/login" element={ <Login/>}/>
-        <Route path="/" element={ <Home/>}/>
+        <Route path="/" element={ <Home />}/>
         <Route path="/contact" element={ <Contact/>}/>
         <Route path="/terms" element={ <Terms/>}/>
         <Route path="/privacy" element={ <Privacy/>}/>
@@ -104,6 +104,7 @@ function App() {
         {/* <Route path="/contact" element={ <Contact/>}/> */}
         <Route path="/terms" element={ <Terms/>}/>
       
+        <Route path="/Blogs" element={ <Blog/>}/>
         <Route path="/Blogs" element={ <Blog/>}/>
         <Route path="/Carrer" element={ <Carrer/>}/>
         <Route path="/Price" element={ <Price/>}/>
@@ -147,6 +148,8 @@ function App() {
         <Route path="/admin/bonus-manager" element={ <AdminMenu Children={<BonusManagement/>} PageName={"Bonus Management"}/>}/>
         <Route path="/admin/reward-plans" element={ <AdminMenu Children={<RewardsList/>} PageName={"Rewards List"}/>}/>
         {/* </Route> */}
+        {/* that we can use for all user */}
+        {/*  <UserMenu/> */}
         <Route path="/" element={<UserPrivateRoute/>}>
         <Route path="/user/profile/:id" element={ <UserMenu Children={<UserProfile/>} PageName={"User Profile"}/>}/>
         <Route path="/user/sendsupport" element={ <UserMenu Children={<UserAddSupport/>} PageName={"Send Message"}/>}/>
