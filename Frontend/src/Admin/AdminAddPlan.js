@@ -101,7 +101,7 @@ export default function AdminAddPlan() {
                 {message && <SuccessAlert message={message} />}
                 {error && <ErrorAlert error={error} />}
                 <div className="px-6 py-4">
-                  <h2 className="text-xl font-semibold mb-5 text-gray-800 mb-2">
+                  <h2 className="text-xl font-semibold  text-gray-800 mb-2">
                     Editable Details
                   </h2>
                   <form>
