@@ -9,6 +9,7 @@ import { Savemoney } from "./Savemoney";
 import { Reward } from "./Reward";
 import Overview from "./Overview";
 import Footer from "../CoreFile/Footer";
+import Slider from "../components/Slider";
 
 export const Home = () => {
   return (
@@ -20,6 +21,7 @@ export const Home = () => {
       <Savemoney />
       <Reward />
       <Overview />
+      <Slider/>
       <Footer />
     </>
   );
