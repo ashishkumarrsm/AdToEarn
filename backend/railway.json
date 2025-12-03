@@ -1,5 +1,6 @@
 {
   "builder": "nixpacks",
   "buildCommand": "cd backend && npm install",
-  "startCommand": "cd backend && node server.sh"
+  "startCommand": "cd backend && node server.sh",
+  "$schema": "https://railway.app/railway.schema.json"
 }
